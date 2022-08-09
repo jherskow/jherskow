@@ -1,16 +1,14 @@
-### Hi there 👋
+<table width="100%"> 
+  <tr>
+  <td width="50%">
 
-<!--
-**jherskow/jherskow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </td>
+  <td width="50%">
 
-Here are some ideas to get you started:
+&nbsp;<p align="center">This repository is [unlicense](https://choosealicense.com/licenses/unlicense/)[d], feel free to fork!<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/jjherskow)
+
+  </p>
+  </td>
+</table>
